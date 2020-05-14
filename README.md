@@ -1,2 +1,2 @@
 # CKK0007
-COKOINO T-type GPIO expansion board kit for raspberry Pi
+COKOINO T-type GPIO expansion board kit for Raspberry Pi
