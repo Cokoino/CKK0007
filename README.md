@@ -6,4 +6,4 @@ COKOINO T-type GPIO expansion board kit for Raspberry Pi
 ![](https://github.com/Cokoino/CKK0007/raw/master/download.png)
 
 # Technical support
-- Email: jex-spt@outlook.com
+- Email: cokoino@outlook.com
